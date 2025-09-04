@@ -24,7 +24,7 @@ cross-attention (SpeCA), spectral cross-attention (SpaCA) mechanisms, and a loca
 
 - Quantitative evalutaion results on WV3, GF2, WV2 datasets of PanCollection.
 
-![table_compare](./readme_image/table_compare.jpg#pic_center)
+![table_compare](./readme_image/table_compare.png#pic_center)
 
 - Qualitative evalutaion results on the WV3 dataset of PanCollection.
 
